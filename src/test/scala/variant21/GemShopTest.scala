@@ -1,3 +1,5 @@
+package variant21
+
 import org.scalatest.funsuite.AnyFunSuite
 
 class GemShopTest extends AnyFunSuite {
